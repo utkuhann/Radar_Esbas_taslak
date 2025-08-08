@@ -2,8 +2,6 @@
 
 Bu proje, Python tabanlı bir bilgisayarlı görü sistemidir. Birden fazla video akışını eş zamanlı olarak işleyerek hız ihlali yapan araçları tespit eder, plakalarını okur ve resimli bir Excel raporu oluşturur.
 
-![sample_screenshot](https://i.imgur.com/gK9f3Yg.jpeg)
-*(Bu kısma kendi projenizden bir ekran görüntüsü ekleyebilirsiniz.)*
 
 ## Ana Özellikler
 
